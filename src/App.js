@@ -44,3 +44,4 @@ export default function App() {
         <label>3. Are you looking to:</label><br />
         <label><input type="radio" name="bioPurpose" value="Create an initial bio" onChange={handleChange} required /> Create an initial bio</label><br />
         <label><input type="radio" name="
+#test
